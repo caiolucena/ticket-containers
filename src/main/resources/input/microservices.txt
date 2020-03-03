@@ -1,0 +1,1 @@
+ts-register-service,rabbitmq,zipkin,redis,ts-ui-dashboard,ts-register-service,ts-login-service,ts-account-mongo,ts-route-service,ts-route-mongo,ts-register-service,ts-sso-service
